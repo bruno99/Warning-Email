@@ -2,4 +2,10 @@ npm install for node_modules
 
 npm install nodemailer for nodemailer
 
-.env with the information
+.env with the information:
+
+MY_EMAIL= 
+MY_PW =  
+HOSTNAME = 
+PORT = 
+WEB = 
