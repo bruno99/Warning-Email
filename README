@@ -6,6 +6,6 @@ npm install nodemailer for nodemailer
 
 MY_EMAIL= 
 MY_PW =  
-HOSTNAME = 
-PORT = 
+HOSTNAME = is the hostname or IP address to connect to (defaults to ‘localhost’)
+PORT = defaults to 587 if is secure is false or 465 if true
 WEB = 
