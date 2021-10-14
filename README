@@ -9,3 +9,5 @@ MY_PW =
 HOSTNAME = is the hostname or IP address to connect to (defaults to ‘localhost’)
 PORT = defaults to 587 if is secure is false or 465 if true
 WEB = 
+
+node run server.js
